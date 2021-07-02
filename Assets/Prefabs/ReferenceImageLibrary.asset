@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GuidLow: 5490996042709957130
   m_GuidHigh: 10890345739070005939
-  m_Images: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5144292018952275642
+      m_GuidHigh: 16823901125713047976
+    m_SerializedTextureGuid:
+      m_GuidLow: 8391357968867821229
+      m_GuidHigh: 14553951103876442297
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Tshirt
+    m_Texture: {fileID: 0}
