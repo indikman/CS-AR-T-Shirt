@@ -1,6 +1,6 @@
 # CS-AR-T-Shirt
 An Augmented Reality enabled T-shirt Application
-As seen in Circuit Stream - Intro to AR Build a AR Tshirt app workshop
+As seen in [Circuit Stream - Intro to AR Build a AR Tshirt app workshop](https://circuitstream.com/workshop/intro-to-ar-building-an-ar-t-shirt-app-july-6-2021/)
 
 ## Works with this T-Shirt!
 
