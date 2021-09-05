@@ -6,11 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/Tshirt.unity
     guid: 2fa9774a228d7b84c9ddef162b89a1dd
+  - enabled: 1
+    path: Assets/Scenes/Workshop1.unity
+    guid: 1022b04f09b51cb4ca0df6ccdefbbd1a
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 61314a8cd9225d94f973445b840d3ef7, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0af359a6b8e8d4942a66f85c05f5c20b, type: 2}
